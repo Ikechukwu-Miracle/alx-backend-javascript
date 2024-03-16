@@ -1,5 +1,4 @@
-/* eslint-disabe */
-function getListStudents () {
+function getListStudents() {
     return [
         { id: 1, firstName: 'Guillaume', location: 'San Francisco' },
         { id: 2, firstName: 'James', location: 'Columbia' },
